@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\DesignPatterns\FactoryMehod\bin\Debug\FactoryMehod.exe.config
+C:\Users\ahmet\source\repos\DesignPatterns\FactoryMehod\bin\Debug\FactoryMehod.exe
+C:\Users\ahmet\source\repos\DesignPatterns\FactoryMehod\bin\Debug\FactoryMehod.pdb
+C:\Users\ahmet\source\repos\DesignPatterns\FactoryMehod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\DesignPatterns\FactoryMehod\obj\Debug\FactoryMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\DesignPatterns\FactoryMehod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DesignPatterns\FactoryMehod\obj\Debug\FactoryMehod.exe
+C:\Users\ahmet\source\repos\DesignPatterns\FactoryMehod\obj\Debug\FactoryMehod.pdb

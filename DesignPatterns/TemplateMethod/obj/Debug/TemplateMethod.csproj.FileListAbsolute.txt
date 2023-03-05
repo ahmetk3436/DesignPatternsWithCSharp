@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Users\ahmet\source\repos\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\ahmet\source\repos\DesignPatterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\ahmet\source\repos\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\ahmet\source\repos\DesignPatterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

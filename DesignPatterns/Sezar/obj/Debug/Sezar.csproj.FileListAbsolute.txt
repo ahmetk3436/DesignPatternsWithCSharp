@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\DesignPatterns\Sezar\bin\Debug\Sezar.exe.config
+C:\Users\ahmet\source\repos\DesignPatterns\Sezar\bin\Debug\Sezar.exe
+C:\Users\ahmet\source\repos\DesignPatterns\Sezar\bin\Debug\Sezar.pdb
+C:\Users\ahmet\source\repos\DesignPatterns\Sezar\obj\Debug\Sezar.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\DesignPatterns\Sezar\obj\Debug\Sezar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\DesignPatterns\Sezar\obj\Debug\Sezar.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DesignPatterns\Sezar\obj\Debug\Sezar.exe
+C:\Users\ahmet\source\repos\DesignPatterns\Sezar\obj\Debug\Sezar.pdb

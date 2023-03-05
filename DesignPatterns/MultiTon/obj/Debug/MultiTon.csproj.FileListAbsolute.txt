@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\DesignPatterns\MultiTon\bin\Debug\MultiTon.exe.config
+C:\Users\ahmet\source\repos\DesignPatterns\MultiTon\bin\Debug\MultiTon.exe
+C:\Users\ahmet\source\repos\DesignPatterns\MultiTon\bin\Debug\MultiTon.pdb
+C:\Users\ahmet\source\repos\DesignPatterns\MultiTon\obj\Debug\MultiTon.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\DesignPatterns\MultiTon\obj\Debug\MultiTon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\DesignPatterns\MultiTon\obj\Debug\MultiTon.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DesignPatterns\MultiTon\obj\Debug\MultiTon.exe
+C:\Users\ahmet\source\repos\DesignPatterns\MultiTon\obj\Debug\MultiTon.pdb

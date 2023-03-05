@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\DesignPatterns\AbstractFactoryMethod\bin\Debug\AbstractFactoryMethod.exe.config
+C:\Users\ahmet\source\repos\DesignPatterns\AbstractFactoryMethod\bin\Debug\AbstractFactoryMethod.exe
+C:\Users\ahmet\source\repos\DesignPatterns\AbstractFactoryMethod\bin\Debug\AbstractFactoryMethod.pdb
+C:\Users\ahmet\source\repos\DesignPatterns\AbstractFactoryMethod\obj\Debug\AbstractFactoryMethod.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\DesignPatterns\AbstractFactoryMethod\obj\Debug\AbstractFactoryMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\DesignPatterns\AbstractFactoryMethod\obj\Debug\AbstractFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\DesignPatterns\AbstractFactoryMethod\obj\Debug\AbstractFactoryMethod.exe
+C:\Users\ahmet\source\repos\DesignPatterns\AbstractFactoryMethod\obj\Debug\AbstractFactoryMethod.pdb
